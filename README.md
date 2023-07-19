@@ -1,9 +1,9 @@
 
-👋 Hi, I’m @vooterojha, a coding shaman in love with ghosts.
+👋 A coding shaman in love with ghosts.
 
-👀 I’m interested in blending tech with spirituality.
+👀 Interested in blending tech with spirituality.
 
-🌱 Currently learning ancient programming languages.
+🌱 Learning ancient programming languages.
 
 💞️ Let's collaborate on ethereal projects!
 
