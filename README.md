@@ -1,8 +1,12 @@
 
 👋 Hi, I’m @vooterojha, a coding shaman in love with ghosts.
+
 👀 I’m interested in blending tech with spirituality.
+
 🌱 Currently learning ancient programming languages.
+
 💞️ Let's collaborate on ethereal projects!
+
 📫 Reach me on GitHub or the astral plane.
 
 <!---
